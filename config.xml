@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.nhoco.nhoco"
-    versionCode = "5.0"
+    id          = "com.eddie.nhoco"
+    versionCode = "4.0.0"
     version     = "6.9" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Mapeio</name>
+  <name>Eddie's</name>
 
   <description>
-      Welcome to the place of your nightmares.
-      -Added Joystick!
+      Shush good game ngl.
   </description>
 
-  <author href="https://scratch.mit.edu/users/charlieleyman/" email="support@phonegap.com">
-      No
+  <author href="https://gamejolt.com/@VenemonYT" email="not@not.com">
+      VenemonTV
   </author>
    
   <icon src="icon.png" />
