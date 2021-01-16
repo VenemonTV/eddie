@@ -13,8 +13,13 @@
       Eddie's Scratch Game to mobile.
   </description>
 
-  <author href="https://build.phonegap.com" email="support@phonegap.com">
+  <author href="https://scratch.mit.edu/users/charlieleyman/" email="support@phonegap.com">
       No
   </author>
-
+<icon src="icon.png" />
+  <engine name="android" spec="https://github.com/apache/cordova-android#4.0.0" />
+  <preference name="KeepRunning" value="false"/>
+  <preference name="Orientation" value="landscape" />
+  <preference name="Fullscreen" value="true" />
+  <preference name="SplashMaintainAspectRatio" value="false" /> 
 </widget>
