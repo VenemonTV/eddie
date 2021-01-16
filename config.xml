@@ -2,24 +2,26 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.nhoco.nhoco"
-    versionCode = "10"
+    versionCode = "5"
     version     = "6.9" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Eddie's</name>
+  <name>Mapeio</name>
 
   <description>
-      Eddie's Scratch Game to mobile.
+      Welcome to the place of your nightmares.
+      -Added Joystick!
   </description>
 
   <author href="https://scratch.mit.edu/users/charlieleyman/" email="support@phonegap.com">
       No
   </author>
-<icon src="icon.png" />
+   
+  <icon src="icon.png" />
   <engine name="android" spec="https://github.com/apache/cordova-android#4.0.0" />
   <preference name="KeepRunning" value="false"/>
   <preference name="Orientation" value="landscape" />
   <preference name="Fullscreen" value="true" />
-  <preference name="SplashMaintainAspectRatio" value="false" /> 
+  <preference name="SplashMaintainAspectRatio" value="false" />   
 </widget>
